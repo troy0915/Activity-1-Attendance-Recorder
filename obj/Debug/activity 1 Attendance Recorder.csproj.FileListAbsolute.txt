@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\bin\Debug\activity 1 Attendance Recorder.exe.config
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\bin\Debug\activity 1 Attendance Recorder.exe
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\bin\Debug\activity 1 Attendance Recorder.pdb
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\obj\Debug\activity 1 Attendance Recorder.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\obj\Debug\activity 1 Attendance Recorder.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\obj\Debug\activity 1 Attendance Recorder.exe
+C:\Users\HP\source\repos\activity 1 Attendance Recorder\obj\Debug\activity 1 Attendance Recorder.pdb
